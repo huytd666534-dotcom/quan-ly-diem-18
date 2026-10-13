@@ -53,7 +53,7 @@ GRADE_CLASS = {
 
 # Thông tin tác giả. MSSV chỉ hiện 4 số cuối vì trang web này công khai.
 AUTHOR_NAME = "Trần Đăng Huy"
-AUTHOR_ID_MASKED = "••••••••6543"
+AUTHOR_ID_MASKED = "066208016543"
 AUTHOR_CLASS = "AI87"
 AUTHOR_SCHOOL = "ĐH Giao Thông Vận Tải"
 
