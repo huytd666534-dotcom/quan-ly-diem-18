@@ -1,0 +1,14 @@
+# Đặt file này vào đúng đường dẫn trong repo:  .streamlit/config.toml
+# (thư mục tên ".streamlit", file tên "config.toml"; sai tên hoặc sai thư mục thì Streamlit bỏ qua)
+
+[theme]
+base = "light"
+# Xanh đậm hơn bản cũ (#4a8fc4) để chữ trắng trên nút và liên kết đạt tương phản 4.5:1
+primaryColor = "#3a79ad"
+backgroundColor = "#eef6fc"
+secondaryBackgroundColor = "#dcecf8"
+textColor = "#2f4a60"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
